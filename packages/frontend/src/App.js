@@ -58,8 +58,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>React Frontend with Node Backend</h1>
-        <p>Connected to in-memory database</p>
+        <h1>Hello, Justin</h1>
       </header>
       
       <main>
